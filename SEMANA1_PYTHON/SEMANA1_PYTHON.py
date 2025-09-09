@@ -1,4 +1,4 @@
-def ejer1():
+﻿def ejer1():
     nombre = input("Ingrese su nombre: ")
     carrera = input("Ingrese su carrera: ")
 
